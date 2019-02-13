@@ -1,2 +1,2 @@
-Hello Dr.Day, this is Anthony from CSC. This assignment is really interesting and I had a good time getting familiar with it. 
+Hello Dr.Day, this is Anthony from CSC. This assignment is really interesting and I had a good time getting familiar with it. I hope that this semester goes very well.
 ![octocat](https://ci6.googleusercontent.com/proxy/d_0KguvHmbH57lHtUmAxko3UDvwki99xuVEFgku4KUHD3EYdW4wm8JKBCmbEjAZuFa7KYYsnYLe52lBoQKI3aGnXGOYBdVaAsq-aZPKkQJpjXyxcya1AfysHL64iDDh7Z8nlt9WG=s0-d-e1-ft#https://octocat-generator-assets.githubusercontent.com/my-octocat-1549895195125.png)
